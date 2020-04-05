@@ -2,21 +2,21 @@
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/1D261C52.png",112 Украина
 pipe:///usr/bin/youtube-play https://youtu.be/3Q11d6I21PE
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/993958A4.png",24 Украина
-pipe:///usr/bin/youtube-play https://youtu.be/AY2eIKY_C68
+pipe:///usr/bin/youtube-play https://youtu.be/pmrwQ5GT6OM
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",NewsOne
 pipe:///usr/bin/youtube-play https://youtu.be/3e0FsU1N6OQ
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://gordonua.com/img/article/4861/92_tn.png",Maxxi-TV
-pipe:///usr/bin/youtube-play https://youtu.be/dktSRgBzANg
+pipe:///usr/bin/youtube-play https://youtu.be/7KtPoROraVI
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий
-pipe:///usr/bin/youtube-play https://youtu.be/nvGDS3JwTww
+pipe:///usr/bin/youtube-play https://youtu.be/tiWrQKDHs6I
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/CB78F54F.png",Громадське
-pipe:///usr/bin/youtube-play https://youtu.be/YN5BPVWqWKM
+pipe:///usr/bin/youtube-play https://youtu.be/Bb7NG9_tcbw
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://liveam.tv/assets/images/chnl/espreso.png",Eспресо TV
-pipe:///usr/bin/youtube-play https://youtu.be/iTO9Nafubhk
+pipe:///usr/bin/youtube-play https://youtu.be/6arO8p6gmBI
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/BCC8E834.png",Zik HD
-pipe:///usr/bin/youtube-play https://youtu.be/gutdqyz26x0
+pipe:///usr/bin/youtube-play https://youtu.be/6lh9eQTRfRQ
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/E44FE3AA.png",5 канал Украина
-pipe:///usr/bin/youtube-play https://youtu.be/vI9-06WmOnM
+pipe:///usr/bin/youtube-play https://youtu.be/AJOPjcCbpM4
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/93A57784.png",НТВ
 pipe:///usr/bin/youtube-play https://youtu.be/XWwW1l_Ciwk
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/1f6897ae/a17cbbe4_med.png",Настоящее время HD
