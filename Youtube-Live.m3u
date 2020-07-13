@@ -6,7 +6,7 @@ pipe:///usr/bin/youtube-play https://youtu.be/pmrwQ5GT6OM
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/F4875919.png",NewsOne
 pipe:///usr/bin/youtube-play https://youtu.be/3e0FsU1N6OQ
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://gordonua.com/img/article/4861/92_tn.png",Наш
-pipe:///usr/bin/youtube-play https://youtu.be/_lj_ZZSQqwc
+pipe:///usr/bin/youtube-play https://youtu.be/ErX-LbZW-zE
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/pryamyj_1.png",Прямий
 pipe:///usr/bin/youtube-play https://youtu.be/tiWrQKDHs6I
 #EXTINF:-1 tvh-epg="disable" group-title="YouTube-TV" tvg-logo="http://td-soft.narod.ru/logo/picon/CB78F54F.png",Громадське
